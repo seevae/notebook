@@ -2,7 +2,7 @@
 
 如图  
 
-![img.png](img.png)
+![img.png](image/img.png)
 
 
 拿一条查询语句举例查询过程：  
