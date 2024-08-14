@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="lcode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="lk" target="11" />
       <module name="spring" target="11" />
     </bytecodeTargetLevel>
   </component>

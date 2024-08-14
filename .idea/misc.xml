@@ -5,10 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/lk/pom.xml" />
+        <option value="$PROJECT_DIR$/lcode/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/lk/pom.xml" />
         <option value="$PROJECT_DIR$/spring/pom.xml" />
       </set>
     </option>
